@@ -1,0 +1,20 @@
+https://raw.githubusercontent.com/Aakashdeveloper/Aakashdeveloper/master/README.md
+
+//////First Time form new folder
+
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Aakashdeveloper/jatinprofile.git (change with your line)
+git push -u origin main
+
+
+////next all time
+git add .
+git commit -m "first commit"
+git push
+
+////to make it like
+> click settings > on left side click "pages"
+> form dropdown click "main" > click "save"
