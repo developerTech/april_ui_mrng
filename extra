@@ -115,3 +115,37 @@ Map
 Footer
 
 https://www.w3schools.com/tags/tag_hn.asp
+
+/////////
+Inline
+styletag
+stylesheet
+
+Inline>styletag>stylesheet
+
+// inline
+{
+    color:red;
+    font-siZe:30px
+}
+styletag
+{
+    text-align:center;
+    color:green;
+    font-weight:bold
+}
+
+stylesheet
+{
+     font-siZe:40px
+     text-align:right;
+     border:2px solid red
+}
+
+{
+    color:red;
+    font-siZe:30px;
+    text-align:center;
+    font-weight:bold;
+    border:2px solid red
+}
