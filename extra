@@ -149,3 +149,18 @@ stylesheet
     font-weight:bold;
     border:2px solid red
 }
+
+
+///target
+className 
+> target multiple element
+> .
+tagname 
+> target by tag name
+> a , div
+id
+> To target unique element
+> #
+
+
+git remote add origin https://developerTech:jekwgkjebgjjeb@github.com/developerTech/march_ui_mrng_21
