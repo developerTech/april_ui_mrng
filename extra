@@ -164,3 +164,10 @@ id
 
 
 git remote add origin https://developerTech:jekwgkjebgjjeb@github.com/developerTech/march_ui_mrng_21
+
+
+box-modal
+> margin
+> border
+> padding
+> content

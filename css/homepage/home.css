@@ -1,0 +1,29 @@
+body{
+   margin:auto
+}
+#header{
+    height:60px;
+    /* border:2px solid hotpink; */
+    background-color: rgb(243, 194, 104);
+}
+
+.slogo{
+    height:50px;
+    width:50px;
+}
+
+/* Search Area */
+#search{
+    height:400px;
+    border:2px solid rgb(81, 187, 67)
+}
+/* Quick Search Area */
+#quickSearch{
+    height:500px;
+    border:2px solid blue
+}
+/* footer Area */
+#footer{
+    height:70px;
+    border:2px solid black
+}
