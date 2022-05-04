@@ -7,7 +7,9 @@ a{
 #header{
     height:60px;
     /* border:2px solid hotpink; */
-    background-color: #d87641
+    background-color: #d87641;
+    /* position:fixed;
+    width:100% */
 }
 
 #icon{
@@ -26,16 +28,20 @@ a{
 /* Search Area */
 #search{
     height:400px;
+    width:100%;
     background-image:url('image/food-wallpaper.png');
     background-repeat: no-repeat;
-    background-size:cover
+    background-size:cover;
+    /* margin-top: 4%;
+    position: absolute; */
+
     /* background-size: 100% 400px; */
 }
 #content{
     height:350px;
     width:60%;
     margin-left:20%;
-    margin-top:2%;
+    margin-top:5%;
     position: absolute;
 }
 #logo{
@@ -78,11 +84,68 @@ select{
 
 /* Quick Search Area */
 #quickSearch{
-    height:500px;
-    border:2px solid blue
+    width:80%;
+    margin-top:2%;
+    margin-left:10%;
+    display:inline-block
 }
+
+#quickHeading{
+    display:block;
+    font-size:40px;
+    color:#d87641;
+    font-weight:bold;
+    margin-left:2%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#quickSubHeading{
+    display:block;
+    line-height: 3;
+    font-size:20px;
+    color:gray;
+    font-weight:bold;
+    margin-left:2%;
+}
+
+.tileContainer{
+    width:30%;
+    border:2px solid green;
+    float:left;
+    margin-left:2%;
+    margin-top:2%;
+}
+
+.tileComponent1{
+    width:50%;
+    height:180px;
+    float:left;
+}
+
+.tileComponent1>img{
+    width:100%;
+    height:180px;
+}
+
+.tileComponent2{
+    width:45%; 
+    float:left; 
+    margin-left:5%;
+    margin-top:14%;
+}
+
+.componentHeading > a {
+    color:#d87641;
+    font-size:30px;
+}
+
+.componentSubHeading{
+    color:gray;
+    font-size:20px;
+}
+
 /* footer Area */
-#footer{
+footer{
     height:70px;
+    margin-top:5%;
     border:2px solid black
 }
