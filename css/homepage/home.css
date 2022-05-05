@@ -109,7 +109,8 @@ select{
 
 .tileContainer{
     width:30%;
-    border:2px solid green;
+    /* border:2px solid green; */
+    box-shadow: 10px 20px 8px gray;
     float:left;
     margin-left:2%;
     margin-top:2%;
@@ -145,7 +146,22 @@ select{
 
 /* footer Area */
 footer{
-    height:70px;
+    height:120px;
     margin-top:5%;
-    border:2px solid black
+    /* border:2px solid black; */
+    background-color: #d87641;
+
+}
+#footText{
+    text-align: center;
+}
+.footDiv{
+    height:70px;
+    width:33%;
+    float:left;
+    text-align: center;
+    border-right: 2px solid black;
+}
+.noBorder{
+    border:none
 }
