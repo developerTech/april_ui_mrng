@@ -92,11 +92,16 @@ select{
 
 #quickHeading{
     display:block;
-    font-size:40px;
+    font-size:30px;
     color:#d87641;
     font-weight:bold;
     margin-left:2%;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#quickHeading:hover{
+    font-size:40px;
+    color:#41d89e;
 }
 #quickSubHeading{
     display:block;
@@ -114,6 +119,14 @@ select{
     float:left;
     margin-left:2%;
     margin-top:2%;
+}
+
+.tileContainer:hover{
+    /* transform:scale(1.1) */
+    /* transform:skewY(20deg) */
+    /* transform:rotate(50deg) */
+    /* transform:translate(100px,100px) */
+    transform:scale(1.1)
 }
 
 .tileComponent1{

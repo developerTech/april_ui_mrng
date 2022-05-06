@@ -44,15 +44,69 @@ body{
     float:left;
  }
 
+
+
  #contentDiv{
-    height:900px;
-    width:76%;
-    border:5px solid blue;
-    float:left;
-    margin-left: 2%;
+
+    width:80%;
+    display: inline-block;
+    margin-left: 10%;
 }
 
+.checked{
+    color:red
+}
+
+.imgDiv{
+    height:450px;
+    width:45%;
+    float:left;
+    border:8px groove gray;
+    margin-top:5%
+}
+
+.imgDiv > img {
+    height:450px;
+    width:100%;
+}
+
+.content{
+    height:550px;
+    width:50%;
+    margin-left:3%;
+    float:left;
+    margin-top:3%;
+}
+
+.feature_container{
+    width: 100%;
+    display: inline-block;
+}
+
+.feature{
+    float:left;
+}
+
+.fetIcon{
+    height:100px;
+    width:100px;
+    margin-left:2%
+}
+.gapClass{
+    margin-left:5%
+}
+h2{
+    color:green;
+    font-size:35px;
+}
  
+.btn{
+    height:50px;
+    width:200px;
+    font-size:20px;
+    color:white;
+    background-color: gray;
+}
  
  /* footer Area */
  footer{
