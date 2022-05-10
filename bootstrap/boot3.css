@@ -1,0 +1,15 @@
+.glyphicon-trash{
+    color: red;
+    font-size:25px
+}
+.glyphicon-edit{
+    color: green;
+    font-size:25px
+}
+/* .btn-primary{
+    background-color:olive !important;
+} */
+
+.btn-olive{
+    background-color:olive !important;
+}
