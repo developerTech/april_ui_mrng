@@ -13,3 +13,37 @@
 .btn-olive{
     background-color:olive !important;
 }
+
+#first{
+    height:200px;
+    background-color:rgb(232, 232, 159);
+}
+#second{
+    height:200px;
+    background-color:rgb(243, 186, 250);
+}
+#third{
+    height:200px;
+    background-color:rgb(235, 182, 162);
+}
+#fourth{
+    height:200px;
+    background-color:rgb(193, 186, 237);
+}
+#fifth{
+    height:200px;
+    background-color:rgb(166, 239, 181);
+}
+#sixth{
+    height:200px;
+    background-color:rgb(190, 236, 239);
+}
+#seventh{
+    height:200px;
+    background-color:rgb(235, 128, 128);
+}
+
+.item > img{
+    width:100%;
+    height:350px !important
+}
