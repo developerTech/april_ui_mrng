@@ -25,11 +25,11 @@ javascript      > Add Logics
 > DataTypes
 > variable
 > alert console prompt
-////////////////////////
 > Operations
 > String literals
-> String Operations
 > Math
+////////////////////////
+> String Operations
 > localStorage
 > sessionStorage
 > cookies
