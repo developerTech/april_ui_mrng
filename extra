@@ -28,16 +28,16 @@ javascript      > Add Logics
 > Operations
 > String literals
 > Math
-////////////////////////
 > String Operations
+> let, const
+////////////////////////
 > localStorage
 > sessionStorage
 > cookies
-> let, const
-> github 
 > condition
 > if else
 > ternary Operations
+
 > Date
 > switch
 > array
@@ -48,6 +48,7 @@ javascript      > Add Logics
 > Es6
     > maps,filter
 > regex
+> github 
 > destructuring
 > Closures
 > Hoisting
