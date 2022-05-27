@@ -110,3 +110,20 @@ Array.isArray(a)
 false
 Array.isArray(b)
 true
+
+
+var city =  ['Venice',['Apple','Mango',['Red','Yellow','Green'],'Orange'],'Mumbai', 'Amsterdam', 'London']
+city[0]
+'Venice'
+city[3]
+'Amsterdam'
+city[1]
+(4) ['Apple', 'Mango', Array(3), 'Orange']
+city[1][0]
+'Apple'
+city[1][1]
+'Mango'
+city[1][2]
+(3) ['Red', 'Yellow', 'Green']
+city[1][2][0]
+'Red'
