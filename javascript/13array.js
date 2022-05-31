@@ -88,7 +88,7 @@ city
 
 var city = ['Venice', 'Mumbai', 'Amsterdam', 'Pune', 'Boston', 'London', 'Helsinki']
 undefined
-city.indexOf('Boston')
+city.indexOf('Boston') 
 4
 city.indexOf('Venice')
 0
