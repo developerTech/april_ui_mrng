@@ -49,25 +49,22 @@ javascript      > Add Logics
 > destructuring
 > Closures
 > Hoisting
-////////////////////////
-> github 
 > object 
-
 > JSON
 > Es6
     > Transpile
     > import export
 > package.JSON
 > npm
-
+////////////////////////
 > this
 > Es6
     > classes
 > Prototypes
-
 > DoM
 > Calc
 > dark/light mode
+
 
 > Form validation
 > Event
@@ -77,17 +74,17 @@ javascript      > Add Logics
 > promis
 > async await
 > Geolocation
+> github 
 
 > screen
 > Dynamic DropDown
 > set interval
 > set timeout
-
 > debouncing
 > Progress bar
+
 > Call/Apply
 > Basic Jquery
-
 > Weather application
 > ajax
 > DataTables
@@ -225,3 +222,13 @@ xl > 1200px
 xxl > 1400px
 
 https://owlcarousel2.github.io/OwlCarousel2/demos/basic.html
+
+/////Step to Create package.json///////
+> go inside folder using cmd
+> npm init -y
+
+/////Step to install package///////
+> go inside folder using cmd
+> npm i @babel/core
+
+npm i @babel/register @babel/preset-env
