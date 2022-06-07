@@ -65,19 +65,16 @@ javascript      > Add Logics
 > dark/light mode
 > Form validation
 > Event
-///////////////////////
 > dummyAPi jsonserver 
-
 > currenyConvertor
 > promis
 > async await
-> Geolocation
-
-
 > screen
-> Dynamic DropDown
 > set interval
 > set timeout
+///////////////////////
+> Geolocation
+> Dynamic DropDown
 > debouncing
 > Progress bar
 
@@ -231,3 +228,6 @@ https://owlcarousel2.github.io/OwlCarousel2/demos/basic.html
 > npm i @babel/core
 
 npm i @babel/register @babel/preset-env
+
+////////////////////////////////
+npx json-server --watch db.json --port 7900
