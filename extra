@@ -72,13 +72,12 @@ javascript      > Add Logics
 > screen
 > set interval
 > set timeout
-///////////////////////
 > Geolocation
-> Dynamic DropDown
-> debouncing
 > Progress bar
-
+> debouncing
+///////////////////////
 > Call/Apply
+> Dynamic DropDown
 > Basic Jquery
 > Weather application
 > ajax
